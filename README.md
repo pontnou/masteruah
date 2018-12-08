@@ -3,26 +3,33 @@ Master UAH
 
 ### commands from bash
 ```
-~$ pwd
+~
+$ pwd
 /c/Users/David
 
-~$ cd OneDrive/
+~
+$ cd OneDrive/
 
-~/OneDrive$ cd uah/
+~/OneDrive
+$ cd uah/
 
-~/OneDrive/uah$ cd GitHub/
+~/OneDrive/uah
+$ cd GitHub/
 
-~/OneDrive/uah/GitHub$ pwd
+~/OneDrive/uah/GitHub
+$ pwd
 /c/Users/David/OneDrive/uah/GitHub
 
-~/OneDrive/uah/GitHub$ git clone https://github.com/pontnou/masteruah masteruah
+~/OneDrive/uah/GitHub
+$ git clone https://github.com/pontnou/masteruah masteruah
 Cloning into 'masteruah'  .
 remote: Enumerating objects: 3, done.
 remote: Counting objects: 100% (3/3), done.
 remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
 Unpacking objects: 100% (3/3), done.
 
-~/OneDrive/uah/GitHub$ ls
+~/OneDrive/uah/GitHub
+$ ls
 masteruah/
 ```
 ### Compañeros:
