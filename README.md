@@ -31,3 +31,14 @@ Unpacking objects: 100% (3/3), done.
 David@elena MINGW64 ~/OneDrive/uah/GitHub
 $ ls
 masteruah/
+
+Compañeros:
+
+NOMBRE													USUARIO				GITHUB
+Antonio Rodríguez Miguel				antoniohupa		https://github.com/antoniohupa/masteruah
+Verónica Morante								vmorante			https://github.com/vmorante/masteruah
+Ricardo García Ruiz							xrigaru				https://github.com/xrigaru/masteruah
+Silvia Alfayate Gallego					SilviaAG			https://github.com/SilviaAG/masteruah
+Asier Aguayo Velasco						Asapuskis			https://github.com/Asapuskis/masteruah
+Henry Daniel Remache Tanquino		Hendare				https://github.com/Hendare/masteruah
+Onur Satka Irieva								Onurse				https://github.com/Onurse/masteruah
